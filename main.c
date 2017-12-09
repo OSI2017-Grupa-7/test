@@ -6,6 +6,7 @@ void func()
 }
 int main()
 {
+	printf("faadafdsfsa");
     func();
     return 0;
 }
