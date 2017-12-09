@@ -1,0 +1,1 @@
+Kad god pushate neku izmjenu u nekom fajlu, u poruci napisite koji fajl je izmjenjen, po mogucnosti i koja linija koda.
