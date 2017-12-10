@@ -11,7 +11,7 @@ int main()
     int i;
     for(i=0; i<10; i++)
       {
-        printf("TT 2K \n");
+        printf("< TT 2K > \n");
       }
     return 0;
 }
